@@ -1,2 +1,6 @@
 # sOS
-Creation of the basis of my own OS in order to have a better understanding of how it works.
+At the moment, only the boot sector file exists. It includes the following features :
+- Print a message
+- Read the disk
+
+The boot sector is stored on a simulated floppy disk using the FAT12 file system.
